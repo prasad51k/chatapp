@@ -1,2 +1,2 @@
 # chatapp
-Testing Real-Time chat application
+Testing Real-Time chat application.
